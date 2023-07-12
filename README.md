@@ -1,14 +1,5 @@
 ## Django Job Portal
 
-#### An open source online job portal.
-
-Live: [Demo](https://django-portal.herokuapp.com/)
-
-Used Tech Stack
-
-1. Django
-2. Sqlite
-
 ### Screenshots
 
 ## Home page
@@ -18,6 +9,4 @@ Used Tech Stack
 <img src="screenshots/two.png" height="800">
 
 ## Job details
-<img src="screenshots/three.png" height="800">
-
-Show your support by 🌟 the project!!
+<img src="screenshots/three.png" heigh
