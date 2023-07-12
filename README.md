@@ -9,4 +9,4 @@
 <img src="screenshots/two.png" height="800">
 
 ## Job details
-<img src="screenshots/three.png" heigh
+<img src="screenshots/three.png" height="800">
